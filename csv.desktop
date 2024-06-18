@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=CSV Viewer
+Exec=csv %f
+Type=Application
+Terminal=true
+MimeType=text/csv;
